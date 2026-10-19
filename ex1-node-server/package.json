@@ -1,0 +1,9 @@
+﻿{
+  "name": "ex1-node-server",
+  "version": "1.0.0",
+  "description": "Primul server Node.js in Docker",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
